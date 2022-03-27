@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+This is not an argument, a discourse, a disquisition, or advice; collected here are various efforts to give voice to the process of reading, to 'take thinking for a walk', to charter coordinates for future study in response to developing socio-political technologies as crucial philosophical interlocutors——without guarantee of those efforts' yield or termination, cohesion or completeness.
 
-You can use the [editor on GitHub](https://github.com/cosmonought/cosmonought.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_Caveat discipulus_, therefore: because the effort is to be rigorous without a guarantee of merchandisability, the appearance of solidity or consistency could well be regarded as a feint, a strategic or aesthetic maneuver to spotlight other kinds of discord and disorder, slips and faints, in the inchoate-but-emerging world(s) of Web 3.0. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the spirit of declining top-down organizations of both thinking and society, reflections here are primarily bottom-up 'local skirmishes' occasioned by particular events, i.e., interventions in site- (or, if you like, chain-)specific contexts, with the acute insistence that it is only in the varied melée of immovable concrete instances that abstract concepts can be truly tested and grasped.
 
-### Markdown
+So, why is blockchain the occasion for these reflections? or, rather, in what 'local skirmish' does blockchain technology intervene that could be of interest to a post-Lacanian philosopher?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cosmonought/cosmonought.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+(to be continued...)
