@@ -1,4 +1,4 @@
-# ReadMe
+# ReadMe.txt
 ## You Dream of a Beautiful Future
 
 This is not an argument, a discourse, a disquisition, or advice; collected here are various efforts to give voice to the process of reading, to 'take thinking for a walk', to charter coordinates for future study by regarding developing socio-political technologies as crucial interlocutors in philosophical debates—without guarantee of those efforts' yield or termination, cohesion or completeness.
