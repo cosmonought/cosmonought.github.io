@@ -9,6 +9,5 @@ Likewise, in the spirit of crypto's rejection of top-down organizational schemas
 
 So, why is blockchain the occasion for these reflections? or, rather, in what 'local skirmish' does blockchain technology intervene that could be of interest to an allegedly 'post-'Lacanian philosopher of human nature? What purchase do the Freudian concepts of sex, subjectivity, and the unconscious have upon monetary theories, political theologies, technological practices, and digital life broadly construed?
 
-## Where Word and World Are One as Code
 
 (to be continued)
