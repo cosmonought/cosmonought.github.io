@@ -1,4 +1,7 @@
-This is not an argument, a discourse, a disquisition, or advice; collected here are various efforts to give voice to the process of reading, to 'take thinking for a walk', to charter coordinates for future study in response to developing socio-political technologies as crucial philosophical interlocutors——without guarantee of those efforts' yield or termination, cohesion or completeness.
+# ReadMe
+## You Dream of a Beautiful Future
+
+This is not an argument, a discourse, a disquisition, or advice; collected here are various efforts to give voice to the process of reading, to 'take thinking for a walk', to charter coordinates for future study in response to developing socio-political technologies as crucial philosophical interlocutors—without guarantee of those efforts' yield or termination, cohesion or completeness.
 
 _Caveat discipulus_, therefore: because the effort is to be rigorous without a guarantee of merchandisability, the appearance of solidity or consistency could well be regarded as a feint, a strategic or aesthetic maneuver to spotlight other kinds of discord and disorder, slips and faints, in the inchoate-but-emerging world(s) of Web 3.0. 
 
