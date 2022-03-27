@@ -7,7 +7,7 @@ _Caveat discipulus_, therefore: because the effort is to be rigorous without a g
 
 Likewise, in the spirit of crypto's rejection of top-down organizational schemas of both thinking and society, reflections here are primarily bottom-up 'local skirmishes' occasioned by particular events, i.e., interventions in site- (or, if you like, chain-)specific contexts, with the thoroughly _casuistic_ insistence that it is only in the varied melée of immovable concrete instances that the supple mobility of abstract concepts can be tested for their ordnance of truth.
 
-So, why is blockchain the occasion for these reflections? or, rather, in what 'local skirmish' does blockchain technology intervene that could be of interest to an allegedly 'post-'Lacanian philosopher of human nature? What purchase do the Freudian concepts of sex, subjectivity, and the unconscious have upon monetary theories, political theologies, technological practices, and digital life broadly construed?
+So, why is blockchain the occasion for these reflections? or, rather, in what 'local skirmish' does blockchain technology intervene that could be of interest to an allegedly 'post-'Lacanian philosopher of human nature? What purchase do the Freudian concepts of sex, subjectivity, and the unconscious have upon monetary theories, political theologies, technological change, and digital life broadly construed?
 
 
 (to be continued)
