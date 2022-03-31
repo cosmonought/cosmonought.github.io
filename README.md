@@ -24,3 +24,5 @@ These constructions are refractory to the logics of institutions, which see only
 (to be continued)
 
 ## Between the Visible
+
+### Footnotes
