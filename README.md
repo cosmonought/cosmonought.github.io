@@ -5,7 +5,9 @@ This is not an argument, a discourse, a disquisition, or advice; collected here 
 
 _Caveat discipulus_, therefore: because the effort is to be rigorous without a guarantee of merchandisability, the appearance of solidity or consistency could well be regarded as a feint, a strategic or aesthetic maneuver to spotlight certain kinds of discord and disorder (alternative slips and faints) in the still-inchoate-but-emerging world(s) of Web 3.0, rather than strategic axioms or inviolate principles of engagement.
 
-Likewise, in the spirit of crypto's rejection of top-down organizational economies, reflections here are primarily bottom-up 'local skirmishes' occasioned by particular texts or events, i.e., interventions in site- (or, sometimes, chain-)specific contexts, with the thoroughly _casuistic_ insistence that it is only in the varied melée of immovable concrete instances that the supple mobility of abstract concepts can be tested for their ordnance of truth. (Careful readers may observe that "truth" is here allied to plasticity in its broad semantic range: as moldable vs rigid or shapeless, as explosive dissensus rather than congealing homogeneity, as unstable re-cycle between credit and commodity—though this is not to say truth is 'socially constructed,' as the invocation of _dissensus_ may usefully suggest.)
+Likewise, in the spirit of crypto's rejection of top-down organizational economies, reflections here are primarily bottom-up 'local skirmishes' occasioned by particular texts or events, i.e., interventions in site- (or, sometimes, chain-)specific contexts, with the thoroughly _casuistic_ insistence that it is only in the varied melée of immovable concrete instances that the supple mobility of abstract concepts can be tested for their ordnance of truth.[^1] 
+
+[^1]: Careful readers may observe that "truth" is here allied to plasticity in its broad semantic range: as moldable vs rigid or shapeless, as explosive dissensus rather than congealing homogeneity, as unstable re-cycle between credit and commodity—though this is not to say truth is 'socially constructed,' as the invocation of _dissensus_ may usefully suggest.
 
 So, why is blockchain the occasion for these reflections? or, rather, in what 'local skirmish' does blockchain technology intervene that could be of interest to an allegedly 'post-'Lacanian philosopher of human nature? What can one schooled in the Freudian concepts of sex, subjectivity, and the unconscious have to offer to the heady combinations of governance mechanisms, monetary theories, political theologies, and technological change that are driving the nascent development of Web 3.0's emphasis on sovereign forms of digital life?
 
@@ -15,8 +17,9 @@ Where they converge, however, is a shared critique of the (dis)content of instit
 
 Because both Bitcoin and psychoanalysis decline to prescribe specific end-goals to their practice—i.e., BTC makes States 'inexist' through its insistence on labor power's sovereignty and freedom of association, while the psychoanalyst is likewise made to 'inexist' through the clinical insistence that the analysand completely free-associate, without regard for logical, social, or moral objections—they are therefore obliged to employ _casuistic,_ block-by-block, case-by-case constructions regarding their theory and practice. 
 
-These constructions are refractory to the logics of institutions, which see only in these phenomena maddening swarms of unchecked, undisciplined activity. What the ossified, quasi-aristocratic institutions fail to recognize is that this mad, 'democratic,' even 'anarchic' swarm is not their antithesis but their ground. 
+These constructions are refractory to the logics of institutions, which see only in these phenomena maddening swarms of unchecked, undisciplined activity. What the ossified, quasi-aristocratic institutions fail to recognize is that this mad, 'democratic,' even 'anarchic' swarm is not their antithesis but their ground.[^2] 
 
+[^2]: See Jacques Ranciere's _Hatred of Democracy_ for an elaboration of this insight.
 
 (to be continued)
 
