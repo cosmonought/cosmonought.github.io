@@ -17,7 +17,7 @@ Where they converge, however, is a shared critical interest in the (dis)content 
 
 Because both Bitcoin and psychoanalysis decline to prescribe specific end-goals to their practice—i.e., BTC makes States 'inexist' through its insistence on labor power's sovereignty and freedom of association, while the psychoanalyst likewise makes the Big Other 'inexist' through the clinical insistence that the analysand completely free-associate, without regard for logical, social, or moral objections—they are therefore obliged to employ _casuistic,_ block-by-block, case-by-case constructions regarding their theory and practice. 
 
-These constructions are refractory to the logics of certain institutions that have degenerated from utilitarian to quasi-artistocratic, which see only in these phenomena maddening swarms of unchecked, undisciplined activity. What those institutions fail to recognize is that this mad, 'democratic,' even 'anarchic' swarm is not their antithesis but their ground.[^2] 
+These constructions are refractory to the logics of certain institutions that have degenerated from utilitarian to quasi-artistocratic functionaries, which see only in these phenomena maddening swarms of unchecked, undisciplined activity. What those institutions fail to recognize is that this mad, 'democratic,' even 'anarchic' swarm is not their antithesis but their ground.[^2] 
 
 [^2]: See Jacques Ranciere's _Hatred of Democracy_ for an elaboration of this insight.
 
