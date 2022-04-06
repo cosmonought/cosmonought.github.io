@@ -3,7 +3,7 @@
 
 This is not an argument, a discourse, a disquisition, or advice; collected here are various efforts to give voice to the process of reading, to 'take thinking for a walk', to charter coordinates for future study by regarding developing socio-political technologies as crucial interlocutors in philosophical debates—without guarantee of those efforts' yield or termination, cohesion or completeness.
 
-_Caveat discipulus_, therefore: because the effort is to be rigorous without a guarantee of merchandisability, the appearance of solidity or consistency could well be regarded as a feint, a strategic or aesthetic maneuver to spotlight certain kinds of discord and disorder (alternative slips and faints) in the still-inchoate-but-emerging world(s) of Web 3.0, rather than strategic axioms or inviolate principles of engagement.
+_Caveat discipulus_, therefore: because the effort is to be rigorous without a guarantee of merchandisability, the appearance of solidity or consistency could well be regarded as a feint, a strategic or aesthetic maneuver to spotlight certain kinds of discord and disorder (alternative slips and faints) in the inchoate-but-emerging world(s) of Web 3.0, rather than strategic axioms or inviolate principles of engagement.
 
 Likewise, in the spirit of the rejection of top-down organizational economies shared by psychoanalysis and blockchain, reflections here are primarily bottom-up 'local skirmishes' occasioned by particular texts or events, i.e., interventions in site- (or, sometimes, chain-)specific contexts, with the thoroughly _casuistic_ insistence that it is only in the varied melée of immovable concrete instances that the supple mobility of abstract concepts can be tested for their ordnance of truth.[^1] 
 
