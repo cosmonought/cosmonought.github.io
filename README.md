@@ -25,4 +25,4 @@ These constructions are refractory to the logics of certain institutions that ha
 
 ## Between the Visible
 
-### Footnotes
+### Notes
