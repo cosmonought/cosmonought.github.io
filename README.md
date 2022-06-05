@@ -21,7 +21,7 @@ These constructions are refractory to the logics of certain institutions that ha
 
 [^2]: See Jacques Ranciere's _Hatred of Democracy_ for an elaboration of this insight.
 
-(to be continued 15 April)
+(to be continued 15 June)
 
 ## Between the Visible
 
