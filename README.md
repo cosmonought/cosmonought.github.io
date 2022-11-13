@@ -1,4 +1,4 @@
-# ReadMe.txt
+# The Coin of Thinking
 
 # NetaDAO: An Orientation
 ## On “Crypto” in General
