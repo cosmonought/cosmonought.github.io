@@ -1,9 +1,9 @@
 # The Coin of Thinking
 
-## NetaDAO: An Orientation
-
 “I’m sorry I wrote you such a long letter. I didn’t have time to write you a short one.”
 —Blaise Pascal
+
+## NetaDAO: An Orientation
 
 ### On “Crypto” in General
 
