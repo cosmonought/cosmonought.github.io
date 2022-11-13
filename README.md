@@ -3,9 +3,7 @@
 “I’m sorry I wrote you such a long letter. I didn’t have time to write you a short one.”
 —Blaise Pascal
 
-## NetaDAO: An Orientation
-
-### On “Crypto” in General
+## On “Crypto” in General
 
 Conversations about “crypto” are often fraught with a heady mix of “idealism, greed, [and] lies,” as the subtitle to Laura Shin’s recent account of the makings of the Ethereum Network (_The Cryptopians_) put it. 
 
@@ -26,7 +24,7 @@ This revolutionary spirit has come to look quaint, if not déclassé, by the ris
 Because “crypto” intervenes on behalf of the revolutionary spirit as a new and profound social technology, its idealistic claims merit conversation beyond ready acceptance or dismissal—that is, they merit being thought through, alongside, and beyond their technical development and questions of profitability and in terms of the new realms of action, or performance, they open and make thinkable in human life.
 
 
-### From "Crypto" to Cosmos
+## From "Crypto" to Cosmos
 
 Given that there are now tens of thousands of cryptocurrencies and tokens in existence, talking about “crypto” in general leaves one susceptible to all manner of overstatement, confusion, and warranted reprisal.
 
@@ -34,5 +32,5 @@ Newcomers to the crypto space are likely to feel overwhelmed by this profusion o
 
 [To be continued...]
 
-#### Notes
+### Notes
 
