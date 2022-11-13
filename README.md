@@ -1,7 +1,7 @@
 # The Coin of Thinking
 
-# NetaDAO: An Orientation
-## On “Crypto” in General
+## NetaDAO: An Orientation
+### On “Crypto” in General
 
 Conversations about “crypto” are often fraught with a heady mix of “idealism, greed, [and] lies,” as the subtitle to Laura Shin’s recent account of the makings of the Ethereum Network (_The Cryptopians_) put it. 
 
@@ -22,9 +22,9 @@ This revolutionary spirit has come to look quaint, if not déclassé, by the ris
 Because “crypto” intervenes on behalf of the revolutionary spirit as a new and profound social technology, its idealistic claims merit conversation beyond ready acceptance or dismissal—that is, they merit being thought through, alongside, and beyond their technical development and questions of profitability and in terms of the new realms of action, or performance, they open and make thinkable in human life.
 
 
-## From "Crypto" to Cosmos
+### From "Crypto" to Cosmos
 
 [To be continued...]
 
-### Notes
+#### Notes
 
