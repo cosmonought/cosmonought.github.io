@@ -9,11 +9,11 @@ However, it is not just developers and proponents of crypto who may court (or, w
 
 Indeed, crypto’s uncharitable—or merely unreflective—critics are just as likely, in their turn, to prop up or risk naturalizing the idealism of the existing monetary regime, with the explosive and far-reaching violence of the 20th century as its most damning consequence and testimony (understood by President Eisenhower, in the draft of his 1961 farewell speech, as the menace of “the military-industrial-academic complex”), the concomitant greed and laziness of centralized institutions, and the Big Lie of coerced currency use (which Marx sharply describes as “wage slavery”).
 
-It will not be possible to address each of these issues here, much less give them their full due, but I raise them to begin clarifying a position on “crypto” that aims to _think_ crypto and to take crypto as a provocation for thinking, especially vis-à-vis such an essentially moral (and, as Stanley Cavell notes, an especially American, hence philosophical) question as how I meaningfully give or express consent to my society.
+It will not be possible to address each of these issues here, much less give them their full due, but I raise them to begin clarifying a position on “crypto” that aims to _think_ crypto and to take crypto as a provocation for thinking, especially vis-à-vis such an essentially moral (and, as Stanley Cavell notes, an especially American, hence philosophical) question as how I meaningfully give or express consent to my society, that is, to be going goverened or following rules.
 
-The fact that such a question is likely to be heard by us, latter-day cynics, as no question at all—that is, to go unheard, or anyway to be heard but unanswerable, except perhaps for the drastic act of renouncing our citizenship—is a nontrivial consequence of fiat economics (“wage slavery”) and its dramatic restriction of the range and dynamism of political thought and action to increasingly unelected and unaccountable administrative bodies.[^1] 
+The fact that such a question is likely to be heard by us, latter-day cynics, as no question at all—–that is, to go unheard, or anyway to be heard but unanswerable, except perhaps for the drastic act of renouncing our citizenship—–is a nontrivial consequence of fiat economics (“wage slavery”) and its dramatic restriction of the range and dynamism of political thought and action to increasingly unelected and unaccountable administrative bodies.[^1] 
 
-[^1]: It would be remiss not to mention another significant cause of this restriction on American political life, though less strictly related to crypto: the simple fact that the size of the US House of Representatives has been frozen since roughly the institution of fiat money; that is, the popular representative body of the US has not been adjusted for the population in nearly a century, doubtless a significant contributor to ongoing gerrymandering controversies—but at least Congresspeople have $174k lifetime salaries?)
+[^1]: I would be remiss not to mention another significant cause of this restriction on American political life, though less strictly related to crypto: the simple fact that the size of the US House of Representatives has been frozen since roughly the institution of fiat money; that is, the popular representative body of the US has not been adjusted for the population in nearly a century, doubtless a significant contributor to ongoing gerrymandering controversies—but at least Congresspeople have $174k lifetime salaries?)
 
 But it was just this question of how we consent to society that once fervently animated the revolutionary spirit of America—not only the Revolution but also the campaigns for indigenous sovereignty, the abolition of slavery, the establishing of labor rights, women’s suffrage, civil rights, and more were all touched and shaped by their contact, not always fruitful or fortuitous, with the modes and moods that Thoreau famously called “civil disobedience.” (It is worth noting that the levying and collecting of taxes, i.e., of consenting to society through payment, was significantly more than incidental to all of these issues.)
 
@@ -23,6 +23,10 @@ Because “crypto” intervenes on behalf of the revolutionary spirit as a new a
 
 
 ### From "Crypto" to Cosmos
+
+Given that there are now tens of thousands of cryptocurrencies and tokens in existence, talking about “crypto” in general leaves one susceptible to all manner of overstatement, confusion, and warranted reprisal.
+
+Newcomers to the crypto space are likely to feel overwhelmed by this profusion of digital tokens and may be swayed to trust that market prices, and price action more generally, are reliable indicators of utility or value or are to be traded like stocks according to such-and-such patterns—or may be inclined to dismiss the whole mess as a scam.
 
 [To be continued...]
 
