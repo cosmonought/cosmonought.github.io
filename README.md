@@ -1,7 +1,6 @@
 # The Coin of Thinking
 
-“I’m sorry I wrote you such a long letter. I didn’t have time to write you a short one.”
-Blaise Pascal
+“I’m sorry I wrote you such a long letter. I didn’t have time to write you a short one.” (Pascal)
 
 ## On “Crypto” in General
 
